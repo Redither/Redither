@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Redither
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Viacheslav "Redither" Shakhnazarov.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Java, Kotlin
-- 💞️ I’m looking to collaborate on ... U can offer me something, I'm good at frontend web devepment on React ;D
+- 💞️ I’m looking to collaborate on development of big unordinary web-service.Or you can offer me something, I'm good at frontend web devepment on React ;D
 - 📫 How to reach me: https://t.me/Redither
 
 <!---
