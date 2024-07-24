@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viacheslav "Redither" Shakhnazarov.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning GOlang
-- 💞️ I’m looking to collaborate on development of big unordinary web-service.Or you can offer me something ;D
+- 🌱 I’m currently learning Jest
+- 💞️ I’m looking to... Vacation!
 - 📫 How to reach me: https://t.me/Redither
 
 <!---
